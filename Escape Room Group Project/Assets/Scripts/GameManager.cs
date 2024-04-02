@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 {
     public GameObject Player_01;
     public GameObject Player_02;
-    public float AniTime = 4f;
+    public float AniTime = 2f;
     float currentTime;
     public GameObject SplitScreen;
     bool animating = true;
@@ -18,8 +18,7 @@ public class GameManager : MonoBehaviour
         //inital varible assigning.
         {
             currentTime = 0;
-            Player_01 = GameObject.Find("Red");
-            Player_02 = GameObject.Find("Blue");
+            
             bootMan = GameObject.Find("BootManager");
         }  
     }
@@ -48,9 +47,12 @@ public class GameManager : MonoBehaviour
     //Will addproperties like rigidbody and set the split screen active.
     void addproperty()
     {
-        Player_01.AddComponent<Rigidbody>();
-        Player_02.AddComponent<Rigidbody>();
+        //Player_01.AddComponent<Rigidbody>();
+        //Player_02.AddComponent<Rigidbody>();
         SplitScreen.SetActive(true);
+        Player_02.GetComponent<CharacterController>().enabled = true;
+        Player_01.GetComponent<CharacterController>().enabled = true;
+       
         Destroy(bootMan);
     }
 }
