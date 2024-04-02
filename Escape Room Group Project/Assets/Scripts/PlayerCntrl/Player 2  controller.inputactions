@@ -6,7 +6,7 @@
             "id": "8ab5093d-0be4-4c41-bdc1-d4d1eb71b32f",
             "actions": [
                 {
-                    "name": "New action",
+                    "name": "Move",
                     "type": "PassThrough",
                     "id": "b64a703e-8079-4836-94f8-66938b4cb9d4",
                     "expectedControlType": "Vector2",
@@ -32,7 +32,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "Move",
                     "isComposite": true,
                     "isPartOfComposite": false
                 },
@@ -43,7 +43,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -54,7 +54,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -65,7 +65,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -76,7 +76,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
