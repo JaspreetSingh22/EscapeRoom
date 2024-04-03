@@ -380,8 +380,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7560505077154074103, guid: 0c7998c8802aadf4a8cce61f44a95310,
         type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560505077154074103, guid: 0c7998c8802aadf4a8cce61f44a95310,
+        type: 3}
       propertyPath: gravityValue
-      value: -1
+      value: -9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -390,7 +395,11 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1911212874}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7195015253290915561, guid: 0c7998c8802aadf4a8cce61f44a95310,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 248445626}
   m_SourcePrefab: {fileID: 100100000, guid: 0c7998c8802aadf4a8cce61f44a95310, type: 3}
 --- !u!1 &248445620 stripped
 GameObject:
@@ -404,6 +413,25 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 248445619}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &248445626
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 248445620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2437a63f59cdfb34b819559b108463b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 5
+  rotationSpeed: 5
+  jumpForce: 5
+  groundCheckDistance: 0.2
+  groundMask:
+    serializedVersion: 2
+    m_Bits: 8
 --- !u!1 &446623749
 GameObject:
   m_ObjectHideFlags: 0
@@ -597,8 +625,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6918823446529508747, guid: 8ce3ea167ceb9ec44973663651c5744c,
         type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6918823446529508747, guid: 8ce3ea167ceb9ec44973663651c5744c,
+        type: 3}
       propertyPath: gravityValue
-      value: -1
+      value: -9
       objectReference: {fileID: 0}
     - target: {fileID: 7790672557715431600, guid: 8ce3ea167ceb9ec44973663651c5744c,
         type: 3}
@@ -662,7 +695,11 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1142068166}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7790672557715431600, guid: 8ce3ea167ceb9ec44973663651c5744c,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1101054437}
   m_SourcePrefab: {fileID: 100100000, guid: 8ce3ea167ceb9ec44973663651c5744c, type: 3}
 --- !u!1 &1101054431 stripped
 GameObject:
@@ -676,6 +713,25 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1101054430}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1101054437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1101054431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2437a63f59cdfb34b819559b108463b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 5
+  rotationSpeed: 5
+  jumpForce: 5
+  groundCheckDistance: 0.2
+  groundMask:
+    serializedVersion: 2
+    m_Bits: 8
 --- !u!1 &1142068162
 GameObject:
   m_ObjectHideFlags: 0
