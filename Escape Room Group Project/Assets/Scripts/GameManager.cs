@@ -47,11 +47,11 @@ public class GameManager : MonoBehaviour
     //Will addproperties like rigidbody and set the split screen active.
     void addproperty()
     {
-        //Player_01.AddComponent<Rigidbody>();
-        //Player_02.AddComponent<Rigidbody>();
-        SplitScreen.SetActive(true);
-        Player_02.GetComponent<CharacterController>().enabled = true;
         Player_01.GetComponent<CharacterController>().enabled = true;
+        Player_02.GetComponent<CharacterController>().enabled = true;
+        SplitScreen.SetActive(true);
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
        
         Destroy(bootMan);
     }
