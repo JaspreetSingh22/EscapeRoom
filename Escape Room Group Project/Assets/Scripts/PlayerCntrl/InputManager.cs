@@ -13,6 +13,7 @@ public class InputManager : MonoBehaviour {
 
     Vector2 horizontalInput;
     Vector2 mouseInput;
+    Animator animator;
 
    
 
@@ -20,7 +21,7 @@ public class InputManager : MonoBehaviour {
     {
         controls = new PlayerOne();
         groundMovement = controls.GroundMovement;
-
+        animator = GetComponentInChildren<Animator>();
         // groundMovement.[action].performed += context => do something
         groundMovement.HorizontalMovement.performed += ctx => horizontalInput = ctx.ReadValue<Vector2>();
 
@@ -34,6 +35,8 @@ public class InputManager : MonoBehaviour {
 
     private void Update ()
     {
+        //animator.SetFloat("WalkX", horizontalInput.x);
+        //animator.SetFloat("WalkY", horizontalInput .y);
         movement.ReceiveInput(horizontalInput);
         mouseLook.ReceiveInput(mouseInput);
     }
