@@ -15,6 +15,10 @@ public class InputManager : MonoBehaviour {
     Vector2 mouseInput;
     Animator animator;
 
+    [SerializeField]Locker locker;
+   
+   
+
    
 
     private void Awake ()
@@ -29,6 +33,7 @@ public class InputManager : MonoBehaviour {
 
         groundMovement.MouseX.performed += ctx => mouseInput.x = ctx.ReadValue<float>();
         groundMovement.MouseY.performed += ctx => mouseInput.y = ctx.ReadValue<float>();
+        groundMovement.Interact.performed +=_ => locker.Interact();
 
 
     }
@@ -39,6 +44,9 @@ public class InputManager : MonoBehaviour {
         //animator.SetFloat("WalkY", horizontalInput .y);
         movement.ReceiveInput(horizontalInput);
         mouseLook.ReceiveInput(mouseInput);
+       {
+        
+       }
     }
 
     private void OnEnable ()
@@ -50,4 +58,7 @@ public class InputManager : MonoBehaviour {
     {
         controls.Disable();
     }
+    
+
+
 }

@@ -9,6 +9,7 @@ public class KeyPadLock : MonoBehaviour
    [SerializeField] string code;
     string key = null;
     public Text typedText;
+    public GameObject lockerDoor;
 
    public void OnclickNo(string ButtonNo)
     {
@@ -21,8 +22,14 @@ public class KeyPadLock : MonoBehaviour
         {
             if (key == code)
             {
+                Animator animator = lockerDoor.GetComponent<Animator>();
                 typedText.color = Color.green;
                 typedText.text = "CORRECT";
+                animator.SetTrigger("OpenDoor");
+                 lockerDoor.GetComponent<Locker>().TimeToClean();
+                 Destroy(gameObject);
+                
+
             }
             else
             {
