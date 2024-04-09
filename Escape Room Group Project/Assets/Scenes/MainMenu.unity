@@ -12435,6 +12435,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sink
       objectReference: {fileID: 0}
+    - target: {fileID: 5222111870802410907, guid: 6e8c1f5c752a5d848982f87a32358f2a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7406461168719594358, guid: 6e8c1f5c752a5d848982f87a32358f2a,
         type: 3}
       propertyPath: m_LocalPosition.x
