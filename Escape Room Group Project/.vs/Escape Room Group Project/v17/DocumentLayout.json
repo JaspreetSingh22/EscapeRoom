@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|c:\\my files\\study conestoga\\sem_02\\gamestudio_01\\group game\\gitsetup\\escaperoom\\escape room group project\\assets\\jmo assets\\welcome screen\\cfxr_welcomescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\jmo assets\\welcome screen\\cfxr_welcomescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|c:\\my files\\study conestoga\\sem_02\\gamestudio_01\\group game\\gitsetup\\escaperoom\\escape room group project\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -92,10 +92,8 @@
               "RelativeDocumentMoniker": "Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs",
               "ToolTip": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs",
               "RelativeToolTip": "Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAMwDMAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T17:26:25.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T17:26:25.727Z"
             },
             {
               "$type": "Document",
@@ -107,8 +105,7 @@
               "RelativeToolTip": "Assets\\Scripts\\FinishLine.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T17:16:24.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T17:16:24.675Z"
             },
             {
               "$type": "Document",
