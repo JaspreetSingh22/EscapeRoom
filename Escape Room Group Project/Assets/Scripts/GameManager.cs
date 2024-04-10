@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
     public GameObject SplitScreen;
     bool animating = true;
     GameObject bootMan;
+    public bool GameStart = false;
 
     // Start is called before the first frame update
     void Start()
@@ -52,7 +53,7 @@ public class GameManager : MonoBehaviour
         SplitScreen.SetActive(true);
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
-       
+        GameStart = true;
         Destroy(bootMan);
     }
 }
