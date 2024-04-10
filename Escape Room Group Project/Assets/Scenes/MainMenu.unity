@@ -1711,6 +1711,11 @@ PrefabInstance:
       propertyPath: xClamp
       value: 75
       objectReference: {fileID: 0}
+    - target: {fileID: 7884396352429097101, guid: 0c7998c8802aadf4a8cce61f44a95310,
+        type: 3}
+      propertyPath: sensitivityX
+      value: 86.5
+      objectReference: {fileID: 0}
     - target: {fileID: 7937583548641606630, guid: 0c7998c8802aadf4a8cce61f44a95310,
         type: 3}
       propertyPath: m_Enabled
@@ -2791,6 +2796,7 @@ GameObject:
   - component: {fileID: 1672481758}
   - component: {fileID: 1672481757}
   - component: {fileID: 1672481756}
+  - component: {fileID: 1672481763}
   m_Layer: 0
   m_Name: Enemy 1
   m_TagString: Untagged
@@ -2950,6 +2956,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1672481763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1672481755}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 208c62e0d45e1d54094e061e5ee20eef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerCanvas: {fileID: 1841500652}
+  blindEffectPrefab: {fileID: 5968043288877747225, guid: 85d3120e05320fb48b1061e547c3652f,
+    type: 3}
+  blindDuration: 4.7
 --- !u!4 &1746235591 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: e4d6cb274cba58f42913dfd8034a9461,
