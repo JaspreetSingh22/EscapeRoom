@@ -15,6 +15,7 @@ public class UImanager1 : MonoBehaviour
         }
         else
         {
+
             SceneManager.LoadScene(sceneName);
         }   
     }
