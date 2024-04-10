@@ -115,7 +115,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7529020313484119044}
   serializedVersion: 4
-  m_Mass: 1
+  m_Mass: 0.13
   m_Drag: 0
   m_AngularDrag: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -146,6 +146,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfc3145a748679e47b58705a5e2e6b17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletSpeed: 8.04
+  bulletSpeed: 18.7
   SecondsUntilDestroyed: 9.76
   damage: 0
