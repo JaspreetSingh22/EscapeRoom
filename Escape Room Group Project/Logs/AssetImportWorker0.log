@@ -856,3 +856,312 @@ Received Import Request.
 Start importing Assets/Scenes/MainMenu.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '318a1a024aad12f70d12f174b39932af') in 0.007914 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 428.280019 seconds.
+  path: Assets/Texture/Cage
+  artifactKey: Guid(540c8394e58a4134e9969b4db823608d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cage using Guid(540c8394e58a4134e9969b4db823608d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61fd945a44c0555aad64f69e7c4c062c') in 0.000846 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.066284 seconds.
+  path: Assets/Texture/Cage/Cage_Cage_AlbedoTransparency.png
+  artifactKey: Guid(c1fedfa24dbcceb41965b9b44400848d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cage/Cage_Cage_AlbedoTransparency.png using Guid(c1fedfa24dbcceb41965b9b44400848d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a10a14ce42720c26b6bb0e5bece63eb') in 0.075808 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Texture/Cage/Cage_Cage_Normal.png
+  artifactKey: Guid(9972687956610274087cc2dcc616c753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cage/Cage_Cage_Normal.png using Guid(9972687956610274087cc2dcc616c753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cc156bd1728120bd5178a33234e11d9') in 0.027965 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 8.771859 seconds.
+  path: Assets/Texture/Cage/CAGE.mat
+  artifactKey: Guid(8f5ee28bef47a4c4b9b5ee47044baef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cage/CAGE.mat using Guid(8f5ee28bef47a4c4b9b5ee47044baef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdb07f868f912e8151c3839225c2a3fc') in 0.185887 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 3.809047 seconds.
+  path: Assets/Texture/Cage/Cage_Cage_AlbedoTransparency.png
+  artifactKey: Guid(c1fedfa24dbcceb41965b9b44400848d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cage/Cage_Cage_AlbedoTransparency.png using Guid(c1fedfa24dbcceb41965b9b44400848d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03cd29814364201d384b95c42a146520') in 0.025700 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.026849 seconds.
+  path: Assets/Texture/Cage/Cage_Cage_MetallicSmoothness.png
+  artifactKey: Guid(f859ccc9553a9ad4dbb41d846ba6fef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cage/Cage_Cage_MetallicSmoothness.png using Guid(f859ccc9553a9ad4dbb41d846ba6fef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df3fb4a0175e907f5f9599e42495e6ac') in 0.014148 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.960981 seconds.
+  path: Assets/Texture/Cage/Cage_Cage_Normal.png
+  artifactKey: Guid(9972687956610274087cc2dcc616c753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cage/Cage_Cage_Normal.png using Guid(9972687956610274087cc2dcc616c753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '603c3648c7c6440bb8ec83f512df4959') in 0.024724 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 78.846641 seconds.
+  path: Assets/Texture/Cage/CAGE.mat
+  artifactKey: Guid(8f5ee28bef47a4c4b9b5ee47044baef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cage/CAGE.mat using Guid(8f5ee28bef47a4c4b9b5ee47044baef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a2aaee367ea846e9e93b611e2ea9c85') in 0.035267 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 1348.815761 seconds.
+  path: Assets/3D model level/Sphere.fbx
+  artifactKey: Guid(e95279ee09b87024fa690d7a74baeded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D model level/Sphere.fbx using Guid(e95279ee09b87024fa690d7a74baeded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a534d16494c6fd9f2dbda29fcc1869c5') in 0.071445 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 85.279155 seconds.
+  path: Assets/3D model level/Sphere.prefab
+  artifactKey: Guid(c12f65654a16d8f4c95fd515ffe75b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D model level/Sphere.prefab using Guid(c12f65654a16d8f4c95fd515ffe75b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e45cac3141406e99814b06d5f26bff18') in 0.001700 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 5.100827 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Graphics/cfxr magic star mesh.asset
+  artifactKey: Guid(bd8a92b47db41f644ae7188f06a986a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Graphics/cfxr magic star mesh.asset using Guid(bd8a92b47db41f644ae7188f06a986a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e813581f3f3d7c5e425d47be5e604b15') in 0.029406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 5418.460488 seconds.
+  path: Assets/3D model level/Celing 2.fbx
+  artifactKey: Guid(a06c6ba3b8edd374989b6cbb6b36ce99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D model level/Celing 2.fbx using Guid(a06c6ba3b8edd374989b6cbb6b36ce99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b938be99da0a83863306de06e7d8461') in 0.566332 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 341
+========================================================================
+Received Import Request.
+  Time since last request: 2478.479978 seconds.
+  path: Assets/Texture/Cieling
+  artifactKey: Guid(51daa5a8951347742a25e261e5c5d401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling using Guid(51daa5a8951347742a25e261e5c5d401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30490debfa058b0a2759bf51ea9b15f') in 0.001684 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.710797 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Bed_mat_AlbedoTransparency.1001.png
+  artifactKey: Guid(71db032b20fac094e9aa6f4a70247d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Bed_mat_AlbedoTransparency.1001.png using Guid(71db032b20fac094e9aa6f4a70247d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33192d9306298a4c3c053a44a4810eb4') in 0.185135 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Texture/Cieling/Celing 1_MiniShelf_mat_AlbedoTransparency.1001.png
+  artifactKey: Guid(1472de8c6653a1942a3d0e1307d97d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_MiniShelf_mat_AlbedoTransparency.1001.png using Guid(1472de8c6653a1942a3d0e1307d97d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac78c352e0c64bd07bccecb95e67b3c7') in 0.032424 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Carpet_mat_MetallicSmoothness.1001.png
+  artifactKey: Guid(337083d0a7a70a147bd6a227cb29061f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Carpet_mat_MetallicSmoothness.1001.png using Guid(337083d0a7a70a147bd6a227cb29061f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c977af6846d214db531b811d7c0ab2') in 0.027947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Floor_mat_Normal.1001.png
+  artifactKey: Guid(42cb69fa236de3e47a3b6e181f9d0f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Floor_mat_Normal.1001.png using Guid(42cb69fa236de3e47a3b6e181f9d0f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48ec285f0808375260e06fce33d08a57') in 0.025340 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Table_01_mat_AlbedoTransparency.1001.png
+  artifactKey: Guid(21ba0321f582b4145a9a5df0be721ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Table_01_mat_AlbedoTransparency.1001.png using Guid(21ba0321f582b4145a9a5df0be721ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dea32c8704d1736714992ca9020d0e9') in 0.019949 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Texture/Cieling/Celing 1_SideRack_mat_AlbedoTransparency.1001.png
+  artifactKey: Guid(33687e39f5c6256438a6aa14dab6b5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_SideRack_mat_AlbedoTransparency.1001.png using Guid(33687e39f5c6256438a6aa14dab6b5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37883b28b6fed2e86e219efba20ce00a') in 0.027907 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Texture/Cieling/Celing 1_SlopeMat_Normal.1001.png
+  artifactKey: Guid(d2827c96b4ade5a44b8f57b8b63df9ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_SlopeMat_Normal.1001.png using Guid(d2827c96b4ade5a44b8f57b8b63df9ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e77cab29e74e676a91dcae189c025689') in 0.019232 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Floor_mat_MetallicSmoothness.1001.png
+  artifactKey: Guid(c3ef306229e927841b6dbd099e25df44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Floor_mat_MetallicSmoothness.1001.png using Guid(c3ef306229e927841b6dbd099e25df44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de5c2277f3f934ac44525a7e5b1bb1a') in 0.019332 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Texture/Cieling/Celing 1_SideRack_mat_MetallicSmoothness.1001.png
+  artifactKey: Guid(1a239edcab42a9041a60d1964fb9c9ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_SideRack_mat_MetallicSmoothness.1001.png using Guid(1a239edcab42a9041a60d1964fb9c9ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677662570f94dc6bb3b765e612710869') in 0.015904 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Texture/Cieling/Celing 1_RandomWall_mat_MetallicSmoothness.1001.png
+  artifactKey: Guid(a22efb08f6fba4d45a3efa687afe2579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_RandomWall_mat_MetallicSmoothness.1001.png using Guid(a22efb08f6fba4d45a3efa687afe2579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a731491dee7a3d6235b2063285d3496a') in 0.013790 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Texture/Cieling/Celing 1_MiniShelf_mat_MetallicSmoothness.1001.png
+  artifactKey: Guid(2614e8b91fcb84f48bdc452d976151ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_MiniShelf_mat_MetallicSmoothness.1001.png using Guid(2614e8b91fcb84f48bdc452d976151ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f2f1958fef99052e9466c05a61501bd') in 0.013980 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Carpet_mat_AlbedoTransparency.1001.png
+  artifactKey: Guid(3106489c710a5a0479a666b110bd9cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Carpet_mat_AlbedoTransparency.1001.png using Guid(3106489c710a5a0479a666b110bd9cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297747efbec210b1692ca5f360fcb878') in 0.017094 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Texture/Cieling/Celing 1_PhotoFRameMat_Normal.1001.png
+  artifactKey: Guid(94aa14c075ab9e846875b34966e1e37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_PhotoFRameMat_Normal.1001.png using Guid(94aa14c075ab9e846875b34966e1e37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4a888ccd8f98581f83db03a70bb8ee4') in 0.016238 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Texture/Cieling/Celing 1_RandomWall_mat_AlbedoTransparency.1001.png
+  artifactKey: Guid(df933ebb9c17b494e8c28aedf230a56a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_RandomWall_mat_AlbedoTransparency.1001.png using Guid(df933ebb9c17b494e8c28aedf230a56a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30e3fadef6cc4e07bcbe5c241e480f2b') in 0.017207 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Cupboard_Normal.1001.png
+  artifactKey: Guid(71eeaebaa3ebf7c47a24340aeb40691f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Cupboard_Normal.1001.png using Guid(71eeaebaa3ebf7c47a24340aeb40691f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2be4d2967bb6d6bfc7fbd4a2f2c8f346') in 0.019058 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Texture/Cieling/Celing 1_RandomWall_mat_Normal.1001.png
+  artifactKey: Guid(23cf2b1aaf30faf4a9fd45d6b6478161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_RandomWall_mat_Normal.1001.png using Guid(23cf2b1aaf30faf4a9fd45d6b6478161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '057f4b7466561f622b9045b3b983871c') in 0.016773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Cupboard_MetallicSmoothness.1001.png
+  artifactKey: Guid(129bd8bc98ab5114e88d0c2df3caa0b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Cupboard_MetallicSmoothness.1001.png using Guid(129bd8bc98ab5114e88d0c2df3caa0b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c65cd4b3a5399f20496f83a0719eade7') in 0.012742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Floor_mat_AlbedoTransparency.1001.png
+  artifactKey: Guid(80a0bb2e7e3834d439b76f83278262d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Floor_mat_AlbedoTransparency.1001.png using Guid(80a0bb2e7e3834d439b76f83278262d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ae6ffc31f1e2d3a0f1fc0286eb651b') in 0.021345 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.061851 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Table_01_mat_Normal.1001.png
+  artifactKey: Guid(44095f7e4b25ab344960e0716bd74ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Table_01_mat_Normal.1001.png using Guid(44095f7e4b25ab344960e0716bd74ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f224df1ea1c642d998844c9d6cec075') in 0.017899 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Table_02_mat_MetallicSmoothness.1001.png
+  artifactKey: Guid(457012e0c6265434680692e935225ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Table_02_mat_MetallicSmoothness.1001.png using Guid(457012e0c6265434680692e935225ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a91dcacb5f42cf2a606933e9af9641c4') in 0.019569 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Toilet_mat_MetallicSmoothness.1001.png
+  artifactKey: Guid(20698021a85fc5b4589df1b744b7919e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Toilet_mat_MetallicSmoothness.1001.png using Guid(20698021a85fc5b4589df1b744b7919e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '755dbe70168230f662cfffa39cb22e41') in 0.019695 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Table_02_mat_Normal.1001.png
+  artifactKey: Guid(d91671ed5fa75dd4a9bda7928f8d0302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Table_02_mat_Normal.1001.png using Guid(d91671ed5fa75dd4a9bda7928f8d0302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4afffe49837396818dc904d2699460be') in 0.017483 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.018857 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Tv_cab_mat_AlbedoTransparency.1001.png
+  artifactKey: Guid(e0f44863a7616c049828d3ca050ca046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Tv_cab_mat_AlbedoTransparency.1001.png using Guid(e0f44863a7616c049828d3ca050ca046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd41fcf5be1a6f2c039ba332a80270cc3') in 0.018598 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Tv_cab_mat_Normal.1001.png
+  artifactKey: Guid(97c9b925caf67b74585ce1d6816b395c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Tv_cab_mat_Normal.1001.png using Guid(97c9b925caf67b74585ce1d6816b395c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3094f12a0bf80679d224d44a292dcc4') in 0.016847 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Texture/Cieling/Celing 1_Walls_Normal.1001.png
+  artifactKey: Guid(a5a716d36a8d7d64b93316fd69e94ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Cieling/Celing 1_Walls_Normal.1001.png using Guid(a5a716d36a8d7d64b93316fd69e94ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fd0b8354ca5e9dee6651602d238a448') in 0.017822 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
