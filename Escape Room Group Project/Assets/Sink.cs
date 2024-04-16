@@ -9,6 +9,7 @@ public class Sink : MonoBehaviour
     public Transform LevelPoint;
     public bool canTapON = false;
     public GameObject WaterEffect;
+    public GameObject code;
     // Start is called before the first frame update
     void Start()
     {
@@ -29,6 +30,7 @@ public class Sink : MonoBehaviour
             else
             {
                 canTapON = false;
+                code.SetActive(true);
                 WaterEffect.SetActive(false);
             }
         }

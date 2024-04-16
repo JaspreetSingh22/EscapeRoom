@@ -27,4 +27,12 @@ public class UImanager : MonoBehaviour
     {
         Destroy(gameObject);
     }
+    public void quit()
+    {
+        Application.Quit();
+    }
+    public void credits()
+    {
+        SceneManager.LoadScene("Credits");
+    }
 }

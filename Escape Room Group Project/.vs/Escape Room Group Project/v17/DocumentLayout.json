@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\scripts\\playercntrl\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercntrl\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\scripts\\lightpuzzleplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lightpuzzleplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\scripts\\countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|c:\\my files\\study conestoga\\sem_02\\gamestudio_01\\group game\\gitsetup\\escaperoom\\escape room group project\\assets\\scripts\\bootmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bootmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|c:\\my files\\study conestoga\\sem_02\\gamestudio_01\\group game\\gitsetup\\escaperoom\\escape room group project\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|c:\\my files\\study conestoga\\sem_02\\gamestudio_01\\group game\\gitsetup\\escaperoom\\escape room group project\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +39,12 @@
       "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\scripts\\countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\scripts\\bookshelfplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bookshelfplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\scripts\\platelift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platelift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\scripts\\lightpuzzleplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lightpuzzleplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\scripts\\lightpuzzlemnaager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercntrl\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\scripts\\playercntrl\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercntrl\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\assets\\curs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{811FF179-3BAF-90A7-000C-B92728A853EC}|Assembly-CSharp.csproj|solutionrelative:assets\\curs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -86,35 +90,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "BootManager.cs",
+              "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\BootManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BootManager.cs",
+              "ToolTip": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\BootManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BootManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:31:46.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UImanager.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\UImanager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UImanager.cs",
               "ToolTip": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\UImanager.cs",
               "RelativeToolTip": "Assets\\Scripts\\UImanager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T23:14:18.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CFXR_WelcomeScreen.cs",
-              "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs",
-              "RelativeDocumentMoniker": "Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs",
-              "ToolTip": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs",
-              "RelativeToolTip": "Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T17:26:25.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "FinishLine.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\FinishLine.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLine.cs",
@@ -126,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "UImanager1.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\UImanager1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UImanager1.cs",
@@ -138,19 +144,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Countdown.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\Countdown.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Countdown.cs",
               "ToolTip": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\Countdown.cs",
               "RelativeToolTip": "Assets\\Scripts\\Countdown.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAmAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T04:42:17.532Z"
+              "WhenOpened": "2024-04-10T04:42:17.532Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "BookshelfPlate.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\BookshelfPlate.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BookshelfPlate.cs",
@@ -162,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "LightPuzzlePlate.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\LightPuzzlePlate.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LightPuzzlePlate.cs",
@@ -170,11 +177,12 @@
               "RelativeToolTip": "Assets\\Scripts\\LightPuzzlePlate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T22:56:51.834Z"
+              "WhenOpened": "2024-04-09T22:56:51.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "LightPuzzleMnaager.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\LightPuzzleMnaager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LightPuzzleMnaager.cs",
@@ -186,20 +194,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAIAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T15:52:38.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\PlayerCntrl\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCntrl\\InputManager.cs",
+              "ToolTip": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\PlayerCntrl\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCntrl\\InputManager.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T03:51:28.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CFXR_WelcomeScreen.cs",
+              "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs",
+              "ToolTip": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs",
+              "RelativeToolTip": "Assets\\JMO Assets\\Welcome Screen\\CFXR_WelcomeScreen.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:26:25.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Smokecollision.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\Smokecollision.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Smokecollision.cs",
@@ -211,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Sink.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Sink.cs",
               "RelativeDocumentMoniker": "Assets\\Sink.cs",
@@ -223,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "WaterTapPlate.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\WaterTapPlate.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WaterTapPlate.cs",
@@ -235,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "OneTimeBlock.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\OneTimeBlock.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\OneTimeBlock.cs",
@@ -247,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "PlateLift.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\PlateLift.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlateLift.cs",
@@ -259,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "InputManagerPlayerTwo.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\PlayerCntrl\\InputManagerPlayerTwo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCntrl\\InputManagerPlayerTwo.cs",
@@ -271,19 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "InputManager.cs",
-              "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\PlayerCntrl\\InputManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCntrl\\InputManager.cs",
-              "ToolTip": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\PlayerCntrl\\InputManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerCntrl\\InputManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T03:51:28.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Movement.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\PlayerCntrl\\Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCntrl\\Movement.cs",
@@ -295,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "curs.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\curs.cs",
               "RelativeDocumentMoniker": "Assets\\curs.cs",
@@ -307,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "KeyPadLock.cs",
               "DocumentMoniker": "C:\\My Files\\Study Conestoga\\Sem_02\\GameStudio_01\\Group gAME\\GitSetup\\EscapeRoom\\Escape Room Group Project\\Assets\\Scripts\\KeyPadLock.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KeyPadLock.cs",

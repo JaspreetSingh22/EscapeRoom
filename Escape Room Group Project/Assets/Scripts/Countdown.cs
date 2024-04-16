@@ -11,6 +11,7 @@ public class Countdown : MonoBehaviour
     [SerializeField] float MaxTime;
     public GameManager GameManager;
     float currentTime;
+    public GameObject clock;
 
     private void Start()
     {
@@ -23,8 +24,9 @@ public class Countdown : MonoBehaviour
     { 
 
         if (GameManager.GameStart)
-        {
-            CountdownText.gameObject.SetActive(true);
+        { 
+            clock.SetActive(true);
+            //CountdownText.gameObject.SetActive(true);
             if (currentTime > 0)
             {
                 currentTime -= 1f;
