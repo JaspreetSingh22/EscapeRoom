@@ -7,6 +7,7 @@ TagManager:
   - FxTemporaire
   - FinalDomino
   - BlindEffect
+  - Bullet
   layers:
   - Default
   - TransparentFX
